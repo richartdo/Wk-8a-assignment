@@ -28,7 +28,7 @@ It demonstrates relational database design principles including:
 
 1. Clone or download this repository.
 2. Open your MySQL client.
-3. Run the `library_system.sql` script provided in the project directory.
+3. Run the `answer.sql` script provided in the project directory.
 
 ```bash
 mysql -u your_username -p < answer.sql
